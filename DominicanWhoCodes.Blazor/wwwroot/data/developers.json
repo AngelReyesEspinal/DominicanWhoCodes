@@ -1,5 +1,15 @@
 [
   {
+    "name": "Kevin Montero",
+    "initials": "KM",
+    "image": "data/devs-pics/kevin-montero.jpg",
+    "summary": "Full Stack Developer using React and Node.js",
+    "skills": "React,Node,Sass,SQL,NoSQL",
+    "linkedin": "https://www.linkedin.com/in/kevin-montero/",
+    "github": "https://github.com/Kmonterohenriquez",
+    "webpage": "http://www.kevinmontero.com"
+  },
+  {
     "name": "Angel Garcia",
     "initials": "AG",
     "image": "data/devs-pics/angel-garcia.jpg",
